@@ -10,6 +10,7 @@ public class jugador : MonoBehaviour
     bool aceptarmov = true;
     private int total;
     public salida rott;
+    public menu canvas;
     int rpposicion;
     public int punto;
     int auxpunto;
@@ -21,6 +22,7 @@ public class jugador : MonoBehaviour
         resultado.text ="0";
         inicarMovimiento = false;
         aceptarmov = true;
+        canvas = GameObject.Find("Canvas").GetComponent<menu>();
     }
 
     // Update is called once per frame
@@ -30,9 +32,8 @@ public class jugador : MonoBehaviour
         {
             aceptarmov = false;
             inicarMovimiento = false;
-            Debug.Log("aceptarmov " + aceptarmov);
             punto = Random.Range(1, 5);
-            Debug.Log("Resul " + punto);
+            //Debug.Log("Resul " + punto);
             total = punto;
             resultado.text= " "+ total;
 
@@ -46,9 +47,10 @@ public class jugador : MonoBehaviour
                auxpunto = rott.puesto.Count - rpposicion;
                StartCoroutine(Move(auxpunto));
             }else{
-                Debug.Log("Resultado "+ punto);
+                //Debug.Log("Resultado "+ punto);
             } 
-            
+           
+
         } 
     }
     
@@ -68,11 +70,16 @@ public class jugador : MonoBehaviour
             yield return new WaitForSeconds(0.1f);
             valor--;
             rpposicion++;
-            Debug.Log("posicion "+ rpposicion);
+            //Debug.Log("posicion "+ rpposicion);
         }
         moviento = false;   
         aceptarmov = true;
         inicarMovimiento = false;
+        GameObject cv = GameObject.Find("Canvas");
+        cv.GetComponent<menu>().activo =false;
+        Debug.Log("posicion "+ rpposicion);   
+        Pregunta p = rott.getPregunta(rpposicion);
+        canvas.setPregunta(p);
     }
     bool MoveToNexNode(Vector3 goal){
 
