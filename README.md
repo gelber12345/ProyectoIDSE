@@ -1,2 +1,0 @@
-# ProyectoIDSE
- Trabajo Final IDSE
