@@ -13,6 +13,8 @@ public class salida : MonoBehaviour
     void Start()
     {
         preguntasNivel1 =new List<Pregunta>();
+
+        
         preguntasNivel1.Add(new Pregunta("pregunta1","opcion 1", "opcion 2", "opcion 3","opcion 4", 1));
         preguntasNivel1.Add(new Pregunta("pregunta2","opcion 1", "opcion 2", "opcion 3","opcion 4", 2));
         preguntasNivel1.Add(new Pregunta("pregunta3","opcion 1", "opcion 2", "opcion 3","opcion 4", 3));

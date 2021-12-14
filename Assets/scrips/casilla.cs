@@ -5,6 +5,7 @@ using UnityEngine;
 public class casilla : MonoBehaviour
 {
     public int nivel;
+    
     // Start is called before the first frame update
     void Start()
     {

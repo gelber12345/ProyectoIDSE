@@ -15,10 +15,13 @@ public class jugador : MonoBehaviour
     public int punto;
     int auxpunto;
     bool moviento;
+
+
     // Start is called before the first frame update
     void Start()
     {
         total = 0;
+
         resultado.text ="0";
         inicarMovimiento = false;
         aceptarmov = true;
@@ -33,7 +36,7 @@ public class jugador : MonoBehaviour
             aceptarmov = false;
             inicarMovimiento = false;
             punto = Random.Range(1, 5);
-            //Debug.Log("Resul " + punto);
+            Debug.Log("Resul " + punto);
             total = punto;
             resultado.text= " "+ total;
 

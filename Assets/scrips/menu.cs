@@ -16,6 +16,8 @@ public class menu : MonoBehaviour
     void Start()
     {
         texto = transform.GetChild(2).gameObject;
+
+        
         alternativa1 = transform.GetChild(3).gameObject;
         alternativa2 = transform.GetChild(4).gameObject;
         alternativa3 = transform.GetChild(5).gameObject;
