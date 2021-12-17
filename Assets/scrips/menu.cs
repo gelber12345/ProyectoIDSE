@@ -6,22 +6,27 @@ using UnityEngine.UI;
 public class menu : MonoBehaviour
 {
     public bool activo =true;
+    [SerializeField]
     GameObject texto;
+    [SerializeField]
     GameObject alternativa1;
+    [SerializeField]
     GameObject alternativa2;
-
+    [SerializeField]
     GameObject alternativa3;
     GameObject alternativa4;
+    
     // Start is called before the first frame update
     void Start()
     {
+        /*
         texto = transform.GetChild(2).gameObject;
 
         
         alternativa1 = transform.GetChild(3).gameObject;
         alternativa2 = transform.GetChild(4).gameObject;
         alternativa3 = transform.GetChild(5).gameObject;
-        
+        */
     }
 
     // Update is called once per frame
