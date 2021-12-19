@@ -1,0 +1,1860 @@
+fileFormatVersion: 2
+guid: 116f8dd7fb6e4114b9713c86e9ffe92c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5223379902222716818
+    second: chess_2_0
+  - first:
+      213: 673902407454056487
+    second: chess_2_1
+  - first:
+      213: 7875149422476362718
+    second: chess_2_2
+  - first:
+      213: 7647406791792943951
+    second: chess_2_3
+  - first:
+      213: 1108215780889528895
+    second: chess_2_4
+  - first:
+      213: -4188814055027027393
+    second: chess_2_5
+  - first:
+      213: 5073610583492711223
+    second: chess_2_6
+  - first:
+      213: -2112831175013658556
+    second: chess_2_7
+  - first:
+      213: 4889403156559906486
+    second: chess_2_8
+  - first:
+      213: -827995948584246813
+    second: chess_2_9
+  - first:
+      213: -2447493269329108753
+    second: chess_2_10
+  - first:
+      213: -584335416570756349
+    second: chess_2_11
+  - first:
+      213: 59119952636285798
+    second: chess_2_12
+  - first:
+      213: -2327775119710699696
+    second: chess_2_13
+  - first:
+      213: 2922450570275563348
+    second: chess_2_14
+  - first:
+      213: -6663364185026526672
+    second: chess_2_15
+  - first:
+      213: -2422324289345470248
+    second: chess_2_16
+  - first:
+      213: 1746155032229794617
+    second: chess_2_17
+  - first:
+      213: 8705250426222713510
+    second: chess_2_18
+  - first:
+      213: 889649125176860903
+    second: chess_2_19
+  - first:
+      213: -8003264396502125282
+    second: chess_2_20
+  - first:
+      213: -8636406164467453315
+    second: chess_2_21
+  - first:
+      213: 2220893099145689552
+    second: chess_2_22
+  - first:
+      213: 8124760000479728892
+    second: chess_2_23
+  - first:
+      213: -6734787346580987208
+    second: chess_2_24
+  - first:
+      213: 8647975204981355888
+    second: chess_2_25
+  - first:
+      213: 8430532402276244664
+    second: chess_2_26
+  - first:
+      213: 8511704539662085858
+    second: chess_2_27
+  - first:
+      213: 1577331423519589813
+    second: chess_2_28
+  - first:
+      213: -1035708552093432651
+    second: chess_2_29
+  - first:
+      213: -4465350164861514338
+    second: chess_2_30
+  - first:
+      213: 4618796859464653229
+    second: chess_2_31
+  - first:
+      213: -5756439206669367475
+    second: chess_2_32
+  - first:
+      213: -982789501483582248
+    second: chess_2_33
+  - first:
+      213: -6765204512035864667
+    second: chess_2_34
+  - first:
+      213: 9172686631592504299
+    second: chess_2_35
+  - first:
+      213: 2396660951686649415
+    second: chess_2_36
+  - first:
+      213: -3111311342793674506
+    second: chess_2_37
+  - first:
+      213: -532672676356830385
+    second: chess_2_38
+  - first:
+      213: -1077905975280645195
+    second: chess_2_39
+  - first:
+      213: 7036913633010567063
+    second: chess_2_40
+  - first:
+      213: 2167160492990462443
+    second: chess_2_41
+  - first:
+      213: 9006654437349741374
+    second: chess_2_42
+  - first:
+      213: 4097191284638410897
+    second: chess_2_43
+  - first:
+      213: 8862472494077891875
+    second: chess_2_44
+  - first:
+      213: -7611976072161438668
+    second: chess_2_45
+  - first:
+      213: -7993603427664586815
+    second: chess_2_46
+  - first:
+      213: -6339342344292033494
+    second: chess_2_47
+  - first:
+      213: -1934524458079891365
+    second: chess_2_48
+  - first:
+      213: 3430425892666840328
+    second: chess_2_49
+  - first:
+      213: 1623869745810321034
+    second: chess_2_50
+  - first:
+      213: 3512513046364935788
+    second: chess_2_51
+  - first:
+      213: 7529178761765589375
+    second: chess_2_52
+  - first:
+      213: -8208064089254183182
+    second: chess_2_53
+  - first:
+      213: 6397876249268658841
+    second: chess_2_54
+  - first:
+      213: 2354128249792998057
+    second: chess_2_55
+  - first:
+      213: -1710797843271846173
+    second: chess_2_56
+  - first:
+      213: -5227862357810708781
+    second: chess_2_57
+  - first:
+      213: -302344443285805204
+    second: chess_2_58
+  - first:
+      213: -3378626397605177252
+    second: chess_2_59
+  - first:
+      213: -6777507848077843543
+    second: chess_2_60
+  - first:
+      213: -1136608302769005299
+    second: chess_2_61
+  - first:
+      213: 1472573211173712986
+    second: chess_2_62
+  - first:
+      213: -2360377308063068671
+    second: chess_2_63
+  - first:
+      213: 2565111449963526993
+    second: chess_2_64
+  - first:
+      213: -1504119491967161238
+    second: chess_2_65
+  - first:
+      213: 9033278109452015761
+    second: chess_2_66
+  - first:
+      213: -7285054801231537711
+    second: chess_2_67
+  - first:
+      213: -8254084439216403258
+    second: chess_2_68
+  - first:
+      213: 1491657857996095715
+    second: chess_2_69
+  - first:
+      213: 5784797736160961257
+    second: chess_2_70
+  - first:
+      213: -2387579606128264362
+    second: chess_2_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chess_2_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1434
+        width: 57
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f46eea85c2d7840800000000000000
+      internalID: 5223379902222716818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1434
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72064994bae2a5900800000000000000
+      internalID: 673902407454056487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_2
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1427
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed383d7eca62a4d60800000000000000
+      internalID: 7875149422476362718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_3
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1434
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f436abd95fb012a60800000000000000
+      internalID: 7647406791792943951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_4
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1430
+        width: 90
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a0762916c216f00800000000000000
+      internalID: 1108215780889528895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_5
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1429
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3253fb6fc75ed5c0800000000000000
+      internalID: -4188814055027027393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_6
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1306
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733debdc1f5196640800000000000000
+      internalID: 5073610583492711223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1305
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44090f69d37bda2e0800000000000000
+      internalID: -2112831175013658556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_8
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1299
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b64d660446aad340800000000000000
+      internalID: 4889403156559906486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_9
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1306
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e16c29521e5284f0800000000000000
+      internalID: -827995948584246813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_10
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1302
+        width: 91
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0aa73c6d1c80ed0800000000000000
+      internalID: -2447493269329108753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_11
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1301
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303ce99d80604e7f0800000000000000
+      internalID: -584335416570756349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1178
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6631600a84902d000800000000000000
+      internalID: 59119952636285798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_13
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1177
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fb6a89cd412bfd0800000000000000
+      internalID: -2327775119710699696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_14
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1171
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457a9e25f41ae8820800000000000000
+      internalID: 2922450570275563348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_15
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1178
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0320f66e399f683a0800000000000000
+      internalID: -6663364185026526672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_16
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1174
+        width: 91
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d043c294ec226ed0800000000000000
+      internalID: -2422324289345470248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_17
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1173
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93351d210c69b3810800000000000000
+      internalID: 1746155032229794617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1050
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa92d7e3234fc870800000000000000
+      internalID: 8705250426222713510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_19
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1049
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e067e07a2ba85c00800000000000000
+      internalID: 889649125176860903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_20
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1043
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15b5fa3f61bee090800000000000000
+      internalID: -8003264396502125282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_21
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1050
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d727ceed952552880800000000000000
+      internalID: -8636406164467453315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_22
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1046
+        width: 91
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9f1b2c18232de10800000000000000
+      internalID: 2220893099145689552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_23
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1045
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf495e17c22f0c070800000000000000
+      internalID: 8124760000479728892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_24
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 922
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2ae39379a3982a0800000000000000
+      internalID: -6734787346580987208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_25
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 921
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075bc4741a7c30870800000000000000
+      internalID: 8647975204981355888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_26
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 915
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc98119d844ff470800000000000000
+      internalID: 8430532402276244664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_27
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 922
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee63af8e26af1670800000000000000
+      internalID: 8511704539662085858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_28
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 918
+        width: 91
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b542f7929ec3e510800000000000000
+      internalID: 1577331423519589813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_29
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 917
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b403ad2f8c60a1f0800000000000000
+      internalID: -1035708552093432651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_30
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 794
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d82b9fea3e702c0800000000000000
+      internalID: -4465350164861514338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_31
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 793
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da99412b543491040800000000000000
+      internalID: 4618796859464653229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_32
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 787
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47475b5a050d10b0800000000000000
+      internalID: -5756439206669367475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_33
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 794
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc761bc72e6c52f0800000000000000
+      internalID: -982789501483582248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_34
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 790
+        width: 91
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af7b33075a2d12a0800000000000000
+      internalID: -6765204512035864667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_35
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 789
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebab0874edeb4f70800000000000000
+      internalID: 9172686631592504299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_36
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 666
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74615500076a24120800000000000000
+      internalID: 2396660951686649415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_37
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 665
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0b32371d662d4d0800000000000000
+      internalID: -3111311342793674506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_38
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 659
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bc138e5019b98f0800000000000000
+      internalID: -532672676356830385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_39
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 666
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb402af9328a01f0800000000000000
+      internalID: -1077905975280645195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_40
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 662
+        width: 91
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797c2b28aa328a160800000000000000
+      internalID: 7036913633010567063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_41
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 661
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9f4fb7cfc431e10800000000000000
+      internalID: 2167160492990462443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_42
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 538
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e335de0dd701efc70800000000000000
+      internalID: 9006654437349741374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_43
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 537
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198e2b9f3c52cd830800000000000000
+      internalID: 4097191284638410897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_44
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 531
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325de2927c3ddfa70800000000000000
+      internalID: 8862472494077891875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_45
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 538
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4345b04a714dc5690800000000000000
+      internalID: -7611976072161438668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_46
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 534
+        width: 91
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c715b2d804011190800000000000000
+      internalID: -7993603427664586815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_47
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 533
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c91e2a9b12608a0800000000000000
+      internalID: -6339342344292033494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_48
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 410
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50d7d241403725e0800000000000000
+      internalID: -1934524458079891365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_49
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 409
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80595b89c225b9f20800000000000000
+      internalID: 3430425892666840328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_50
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 403
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e27802ee4298610800000000000000
+      internalID: 1623869745810321034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_51
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 410
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66d18d6104feb030800000000000000
+      internalID: 3512513046364935788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_52
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 406
+        width: 91
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71147941340d7860800000000000000
+      internalID: 7529178761765589375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_53
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 405
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe3d52f239171e80800000000000000
+      internalID: -8208064089254183182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_54
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 282
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99221922d82d9c850800000000000000
+      internalID: 6397876249268658841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_55
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 281
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aaaf94ab2b8ba020800000000000000
+      internalID: 2354128249792998057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_56
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 275
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6f64dfc660248e0800000000000000
+      internalID: -1710797843271846173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_57
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 282
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de7e0c42e6e277b0800000000000000
+      internalID: -5227862357810708781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_58
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 278
+        width: 91
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67e22aa45bddcbf0800000000000000
+      internalID: -302344443285805204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_59
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 277
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c585cfd2135bc11d0800000000000000
+      internalID: -3378626397605177252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_60
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 154
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3e5ec558471f1a0800000000000000
+      internalID: -6777507848077843543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_61
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 153
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d91b845c4f930f0800000000000000
+      internalID: -1136608302769005299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_62
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 147
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54f3c59881af6410800000000000000
+      internalID: 1472573211173712986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_63
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 154
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e020918514e3fd0800000000000000
+      internalID: -2360377308063068671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_64
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 150
+        width: 91
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bfc50f54b199320800000000000000
+      internalID: 2565111449963526993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_65
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 149
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c6e8d8a4b402be0800000000000000
+      internalID: -1504119491967161238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_66
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 26
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19813378496ac5d70800000000000000
+      internalID: 9033278109452015761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_67
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 25
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d91753914946ea90800000000000000
+      internalID: -7285054801231537711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_68
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 19
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc4d6e3fe9937d80800000000000000
+      internalID: -8254084439216403258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_69
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 26
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e007403bee63b410800000000000000
+      internalID: 1491657857996095715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_70
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 22
+        width: 91
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2ab5154eab74050800000000000000
+      internalID: 5784797736160961257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess_2_71
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 21
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bf1c78ffc9dded0800000000000000
+      internalID: -2387579606128264362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
