@@ -15,6 +15,7 @@ public class jugador : MonoBehaviour
     public int punto;
     int auxpunto;
     bool moviento;
+    // gameover variables
 
 
     // Start is called before the first frame update
@@ -85,11 +86,6 @@ public class jugador : MonoBehaviour
         canvas.setPregunta(p);
     }
     bool MoveToNexNode(Vector3 goal){
-
         return goal != (transform.position = Vector3.MoveTowards(transform.position, goal, 2f * Time.deltaTime));
     }
-
-
-
-
 }
