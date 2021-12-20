@@ -12,6 +12,13 @@ public class elgameover : MonoBehaviour {
     }
 
     void OnCollisionEnter2D(Collision2D c) {
+        Time.timeScale=0;
         gameOverPanel.SetActive(true);
+        string res ="";
+        GameObject player = GameObject.Find("jugador");
+        res += " SU PUNTIACION FUE DE : " +  player.GetComponent<jugador>().puntaje + " \n"
+            + " LA CANTIDAD DE RESPUESTAS CORRECTAS FUE DE : " + player.GetComponent<jugador>().resCorrect;
+        
+         gameOverPanel.transform.GetChild(2).GetComponent<Text>().text =res;
     }
 }
