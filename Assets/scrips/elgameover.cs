@@ -4,16 +4,25 @@ using UnityEngine;
 using UnityEngine.UI;
 
 public class elgameover : MonoBehaviour {
-
-    public GameObject gameOverPanel;
-    
+    [SerializeField]
+    GameObject gameOverPanel;
+    [SerializeField]
+    GameObject gameOverPane2;
+    [SerializeField]
+    GameObject gameOverPane3;
+    [SerializeField]
+    GameObject gameOverPane4;
     private void Start() {
         gameOverPanel.SetActive(false);
+        
     }
 
     void OnCollisionEnter2D(Collision2D c) {
         Time.timeScale=0;
         gameOverPanel.SetActive(true);
+        gameOverPane2.SetActive(false);
+        gameOverPane3.SetActive(false);
+        gameOverPane4.SetActive(false);
         string res ="";
         GameObject player = GameObject.Find("jugador");
         res += " SU PUNTIACION FUE DE : " +  player.GetComponent<jugador>().puntaje + " \n"

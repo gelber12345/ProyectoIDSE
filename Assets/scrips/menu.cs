@@ -7,28 +7,35 @@ public class menu : MonoBehaviour
 {
     public bool activo =true;
     bool puedeResponder = false;
+    [SerializeField]
+    GameObject punto;
+    [SerializeField]
     GameObject texto;
+    [SerializeField]
     GameObject alternativa1;
+    [SerializeField]
     GameObject alternativa2;
-
+    [SerializeField]
     GameObject alternativa3;
     int  res;
     // Start is called before the first frame update
     void Start()
     {
-        texto = transform.GetChild(2).gameObject;
+       // texto = transform.GetChild(2).gameObject;
 
         res=0;
-        alternativa1 = transform.GetChild(3).gameObject;
+       /* alternativa1 = transform.GetChild(3).gameObject;
         alternativa2 = transform.GetChild(4).gameObject;
-        alternativa3 = transform.GetChild(5).gameObject;
+        alternativa3 = transform.GetChild(5).gameObject;*/
         
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        GameObject player = GameObject.Find("jugador");
+       punto.GetComponent<TMPro.TextMeshProUGUI>().text =">> Respuestas Correctas : " + player.GetComponent<jugador>().resCorrect;
+      
     }
     public void lanzarDado(){
         if (activo){
@@ -66,10 +73,10 @@ public class menu : MonoBehaviour
         
     }   
     public void setPregunta(Pregunta pregunta){
-        texto.GetComponent<Text>().text = pregunta.getTitulo();
-        alternativa1.GetComponent<Button>().transform.GetChild(0).GetComponent<Text>().text = pregunta.getAlt1();
-        alternativa2.GetComponent<Button>().transform.GetChild(0).GetComponent<Text>().text = pregunta.getAlt2();
-        alternativa3.GetComponent<Button>().transform.GetChild(0).GetComponent<Text>().text = pregunta.getAlt3();
+        texto.GetComponent<TMPro.TextMeshProUGUI>().text = pregunta.getTitulo();
+        alternativa1.GetComponent<Button>().transform.GetChild(0).GetComponent<TMPro.TextMeshProUGUI>().text = pregunta.getAlt1();
+        alternativa2.GetComponent<Button>().transform.GetChild(0).GetComponent<TMPro.TextMeshProUGUI>().text = pregunta.getAlt2();
+        alternativa3.GetComponent<Button>().transform.GetChild(0).GetComponent<TMPro.TextMeshProUGUI>().text = pregunta.getAlt3();
         res = pregunta.getCorrecto();
         puedeResponder= true;
     }
