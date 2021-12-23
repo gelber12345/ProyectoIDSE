@@ -4,6 +4,10 @@ using UnityEngine;
 using UnityEngine.UI;
 
 public class elgameover : MonoBehaviour {
+   [SerializeField]
+    GameObject resultado;
+    [SerializeField]
+    GameObject resultadoCompleto;
     [SerializeField]
     GameObject gameOverPanel;
     [SerializeField]
@@ -25,9 +29,16 @@ public class elgameover : MonoBehaviour {
         gameOverPane4.SetActive(false);
         string res ="";
         GameObject player = GameObject.Find("jugador");
-        res += " SU PUNTIACION FUE DE : " +  player.GetComponent<jugador>().puntaje + " \n"
+
+        if(player.GetComponent<jugador>().puntaje>0){
+            resultado.GetComponent<TMPro.TextMeshProUGUI>().text ="¡   GANASTE  :) !";
+        }
+        else{
+             resultado.GetComponent<TMPro.TextMeshProUGUI>().text ="¡   PERDISTE :( !";
+        }
+        res += " SU PUNTUACION FUE DE : " +  player.GetComponent<jugador>().puntaje + " \n"
             + " LA CANTIDAD DE RESPUESTAS CORRECTAS FUE DE : " + player.GetComponent<jugador>().resCorrect;
         
-         gameOverPanel.transform.GetChild(2).GetComponent<Text>().text =res;
+          resultadoCompleto.GetComponent<TMPro.TextMeshProUGUI>().text =res;
     }
 }
